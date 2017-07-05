@@ -17,6 +17,9 @@ layout: default
   <div class="entry">
     {{ content }}
   </div>
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
 
   <div align="center">
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -25,10 +28,6 @@ layout: default
          data-ad-client="ca-pub-5203718844525133"
          data-ad-slot="7716996678"></ins>
     <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-  </div>
-
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
   {% include disqus.html %}
