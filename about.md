@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### 뭐하냐면 
 
-### More Information
+개발합니다. 물론 소프트웨어죠.
 
-A place to include any other types of information that you'd like to include about yourself.
+### 여러가지 합니다
+
+전직 : 백수, 프리랜서, 스타트업 CEO, 개발팀장 등등..
+
+현직 : 버즈아트 개발팀장  
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rtlink.park@gmail.com](mailto:rtlink.park@gmail.com)
