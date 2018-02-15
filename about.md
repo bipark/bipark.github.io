@@ -12,7 +12,7 @@ permalink: /about/
 
 전직 : 백수, 프리랜서, 스타트업 CEO, 개발팀장 등등..
 
-현직 : 버즈아트 개발팀장  
+현직 : 버즈아트 CTO
 
 ### Contact me
 
