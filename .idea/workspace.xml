@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcb2b1de-a151-470c-89ea-351ff46ebf0a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-10-22.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-10-22-8.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-22-8.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,7 +41,9 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-2-15-7.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="60">
+                <caret line="4" lean-forward="true" selection-end-line="4" />
+              </first_editor>
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
@@ -52,12 +51,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-10-22.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-10-22.md">
+      <file leaf-file-name="2018-10-22-8.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-10-22-8.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="16" selection-start-column="16" selection-end-column="16" />
+              <first_editor relative-caret-position="585">
+                <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -141,6 +140,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-2-15.md" />
         <option value="$PROJECT_DIR$/_posts/2018-2-15-7.md" />
         <option value="$PROJECT_DIR$/_posts/2018-10-22.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-10-22-8.md" />
       </list>
     </option>
   </component>
@@ -172,6 +172,11 @@
             <path>
               <item name="bipark" type="b2602c69:ProjectViewProjectNode" />
               <item name="bipark" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bipark" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bipark" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bipark" type="b2602c69:ProjectViewProjectNode" />
@@ -228,12 +233,12 @@
       <workItem from="1518663268192" duration="151000" />
       <workItem from="1518663444721" duration="47000" />
       <workItem from="1518663494484" duration="533000" />
-      <workItem from="1540170557199" duration="164000" />
+      <workItem from="1540170557199" duration="507000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6723000" />
+    <option name="totallyTimeSpent" value="7066000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1647" height="978" extended-state="0" />
@@ -267,13 +272,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -477,24 +475,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-1-6-1.md" />
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="2" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
-          <folding>
-            <element signature="n#style#0;n#ins#0;n#div#0;n#article#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ins#0;n#div#3;n#article#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-6-9-2.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-1-6-3.md" />
     <entry file="file://$PROJECT_DIR$/_includes/analytics.html">
@@ -519,13 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -560,10 +533,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-22.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="16" selection-start-column="16" selection-end-column="16" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="2" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
+          <folding>
+            <element signature="n#style#0;n#ins#0;n#div#0;n#article#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ins#0;n#div#3;n#article#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-2-15-7.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="60">
+            <caret line="4" lean-forward="true" selection-end-line="4" />
+          </first_editor>
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
@@ -575,11 +587,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-10-22.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-22-8.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="16" selection-start-column="16" selection-end-column="16" />
+          <first_editor relative-caret-position="585">
+            <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
